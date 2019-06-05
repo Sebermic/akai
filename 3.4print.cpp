@@ -1,4 +1,5 @@
 /*print2.c--更多printf()的特性*/
+//1234353556
 #include <stdio.h>
 int main (void)
 {
